@@ -1,0 +1,25 @@
+/* Styles pour la barre de navigation */
+.navbar {
+    background-color: #007BFF; /* Couleur de fond de la barre de navigation */
+    color: white; /* Couleur du texte de la barre de navigation */
+}
+
+.navbar a.navbar-brand,
+.navbar a.nav-link {
+    color: white !important; /* Couleur du texte des liens de navigation */
+}
+
+/* Styles pour le contenu principal */
+.container {
+    background-color: #FFFFFF; /* Couleur de fond du contenu principal */
+    padding: 20px; /* Espacement intérieur du contenu principal */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Ombre autour du contenu principal */
+}
+
+/* Styles pour le pied de page */
+footer {
+    background-color: #333; /* Couleur de fond du pied de page */
+    color: white; /* Couleur du texte du pied de page */
+}
+
+
